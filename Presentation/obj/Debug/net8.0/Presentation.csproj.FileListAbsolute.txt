@@ -1,0 +1,12 @@
+D:\Pr\CkoryhProj\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\Pr\CkoryhProj\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\Pr\CkoryhProj\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\Pr\CkoryhProj\Presentation\obj\Debug\net8.0\ref\Presentation.dll

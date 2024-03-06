@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIkOjSlnEGbl5xY/0bi9wRt9p58p7Y7yVZ4UPYH8ZGY+KVo8AguLqk/UQdEZ2kX9nW0UAhkIjoqAQeuOjqdbIA==",
+  "success": true,
+  "projectFilePath": "D:\\Pr\\CkoryhProj\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YULIK\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
